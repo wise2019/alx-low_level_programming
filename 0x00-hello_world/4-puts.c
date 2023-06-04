@@ -7,12 +7,15 @@
  * /
  
 
- int main(void)
- {
+int main(void)
+
+{
  
  	puts("\"programming is like a multilingual puzzle");
 	
 	retrun (0);
+	
 
- 
- }
+
+	
+}
