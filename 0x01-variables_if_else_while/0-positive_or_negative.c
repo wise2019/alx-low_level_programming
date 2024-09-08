@@ -1,10 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
- * main - Determine if a number is positive, negative or zero
+/**
+ * main - Entry point of the program
  *
- * Return: Always 0 (Sucess)
+ * Description: This function checks whether a number is positive, 
+ * zero, or negative and prints the appropriate message.
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
