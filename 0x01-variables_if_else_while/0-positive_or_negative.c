@@ -4,7 +4,7 @@
 /**
  * main - Entry point of the program
  *
- * Description: This function checks whether a number is positive, 
+ * Description: This function checks whether a number is positive,
  * zero, or negative and prints the appropriate message.
  *
  * Return: Always 0 (Success)
